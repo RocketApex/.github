@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-RocketApex is a fully integrated software firm that helps our customers grow via our products and integrated services. Run your business on EleganceWorks. Hire through EleganceJobs. Network better through EleganceJoin
+RocketApex is a fully integrated software firm that helps our customers grow via our products and integrated services. Run your business on [EleganceWorks](https://www.eleganceworks.com/). Hire through [EleganceJobs](https://www.elegancejobs.com/). Network better through [EleganceJoin](https://www.elegancejoin.com/)
 
 
 <!--
