@@ -1,15 +1,9 @@
-## Hi there 👋
+# RocketApex
 
-RocketApex is a fully integrated software firm that helps our customers grow via our products and integrated services. Run your business on [EleganceWorks](https://www.eleganceworks.com/). Hire through [EleganceJobs](https://www.elegancejobs.com/). Network better through [EleganceJoin](https://www.elegancejoin.com/)
+When your business depends on software, you need someone who takes responsibility for the work.
 
+RocketApex is a software consulting company. We focus on what your business needs its software to do.
 
-<!--
+You can explore our open source projects here on GitHub: [achilles](https://github.com/RocketApex/achilles), [page_structured_data](https://github.com/RocketApex/page_structured_data) and [passive_model](https://github.com/RocketApex/passive_model).
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[Learn more about RocketApex](https://www.rocketapex.com).
